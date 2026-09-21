@@ -92,7 +92,7 @@ android {
 }
 
 dependencies {
-    implementation(libs.simple.tools.commons)
+    implementation(libs.commons)
     implementation(libs.bundles.androidx.camera)
     implementation(libs.androidx.documentfile)
     implementation(libs.androidx.exifinterface)
